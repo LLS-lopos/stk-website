@@ -1,280 +1,277 @@
 # 
 # Translators:
-# Crystal Da Eevee <rutmaria3333@hotmail.com>, 2022
-# João Frade <100nome.portugal@gmail.com>, 2023
-# Hugo Carvalho <hugokarvalho@hotmail.com>, 2024
+# DHBaEL, 2024
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: stk-website\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2021-11-10 17:58+0000\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2024\n"
-"Language-Team: Portuguese (https://app.transifex.com/supertuxkart/teams/36024/pt/)\n"
+"Last-Translator: DHBaEL, 2024\n"
+"Language-Team: Estonian (https://app.transifex.com/supertuxkart/teams/36024/et/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # Shown if empty search result
 msgid "No results found"
-msgstr "Sem resultados encontrados"
+msgstr "Ilma tulemusteta"
 
 msgid "SuperTuxKart"
 msgstr "SuperTuxKart"
 
 msgid "Download"
-msgstr "Transferir"
+msgstr "Alla laadida"
 
 msgid "Discover"
-msgstr "Descobrir"
+msgstr "Lisateave"
 
 msgid "Community"
-msgstr "Comunidade"
+msgstr "Kogukond"
 
 # Table of contents which display near the top of each page
 msgid "Contents"
-msgstr "Conteúdos"
+msgstr "Sisu"
 
 msgid ""
 "SuperTuxKart is a 3D open-source arcade racer with a variety characters, "
 "tracks, and modes to play."
 msgstr ""
-"O SuperTuxKart é um jogo de corridas de arcada 3D de código aberto com uma "
-"variedade de personagens, pistas e modos de jogo."
+"SuperTuxKart on 3D avatud lähtekoodiga võidusõidumäng, millel on erinevad "
+"tegelased ja rajad."
 
 # Drop down menu when viewing SuperTuxKart homepage in mobile device
 msgid "Menu"
-msgstr "Menu"
+msgstr "Menüü"
 
 msgid "FAQ"
-msgstr "Perguntas Frequentes"
+msgstr "KKK"
 
 msgid "Get Involved"
-msgstr "Participe"
+msgstr "Osaleda"
 
 msgid "Blog"
-msgstr "Blogue"
+msgstr "Ajaveeb"
 
 msgid "Donate"
-msgstr "Doar"
+msgstr "Annetada"
 
 # Dropdown menu which shows language selection, etc.
 msgid "Tools"
-msgstr "Ferramentas"
+msgstr "Tööriistad"
 
 msgid "Language"
-msgstr "Idioma"
+msgstr "Keel"
 
 msgid "Management"
-msgstr "Manutenção"
+msgstr "Haldamine"
 
 msgid "New page"
-msgstr "Nova página"
+msgstr "Uus leht"
 
 msgid "Edit page"
-msgstr "Editar página"
+msgstr "Muuda sisu"
 
 msgid "Page history"
-msgstr "Histórico da página"
+msgstr "Muudatuste ajalugu"
 
 msgid "Visit the main page"
-msgstr "Visitar a página inicial"
+msgstr "Külasta põhilehte"
 
 msgid "Forum"
-msgstr "Fórum"
+msgstr "Foorum"
 
 msgid "Twitter"
 msgstr "Twitter"
 
 # Clicking Addons will go to online.supertuxkart.net
 msgid "Addons"
-msgstr "Extensões"
+msgstr "Lisandid"
 
 msgid "Telegram"
 msgstr "Telegram"
 
 msgid "Media"
-msgstr "Média"
+msgstr "Meedia jaoks"
 
 msgid "YouTube"
 msgstr "YouTube"
 
 msgid "Gallery"
-msgstr "Galeria"
+msgstr "Galerii"
 
 msgid "Posters"
-msgstr "Pósteres"
+msgstr "Plakatid"
 
 msgid "Development"
-msgstr "Desenvolvimento"
+msgstr "Arendus"
 
 # Clicking Modding will go to Commuity page
 msgid "Modding"
-msgstr "Modding"
+msgstr "Mänguarendus"
 
 msgid "GitHub"
 msgstr "GitHub"
 
 # Clicking Documentation will go to SuperTuxKart doxygen
 msgid "Documentation"
-msgstr "Documentação"
+msgstr "Dokumentatsioon"
 
 msgid "About us"
-msgstr "Sobre nós"
+msgstr "Meie kohta"
 
 # Clicking About the team will go to a page which show SuperTuxKart team
 # member infos
 msgid "About the team"
-msgstr "Sobre a equipa"
+msgstr "Meeskonnast"
 
 msgid "About SuperTuxKart"
-msgstr "Sobre o SuperTuxKart"
+msgstr "SuperTuxKartist"
 
 msgid "Projects using SuperTuxKart"
-msgstr "Projetos que usam o SuperTuxKart"
+msgstr "Projektid, milles kasutatakse SuperTuxKart"
 
 # Title of info popup which describes extra info
 msgid "Info"
-msgstr "Informação"
+msgstr "Info"
 
 msgid "Return to Get Involved"
-msgstr "Voltar a Envolve-te"
+msgstr "Minna tagasi 'Osaleda' jaotusse"
 
 msgid "Making Library Nodes"
-msgstr "Fazer Nós de Biblioteca (Library Nodes)"
+msgstr "Blenderi objektide valmistamine"
 
 msgid "Making Karts"
-msgstr "Fazer Karts"
+msgstr "Kardide valmistamine"
 
 msgid "Making Tracks"
-msgstr "Fazer Pistas"
+msgstr "Rajade valmistamine"
 
 # Title of code popup which displays code snippet
 msgid "Code"
-msgstr "Código"
+msgstr "Kood"
 
 msgid "IRC"
 msgstr "IRC"
 
 msgid "Mailing List"
-msgstr "Lista de e-mails"
+msgstr "Meililist"
 
 msgid "Reddit"
 msgstr "Reddit"
 
 msgid "Support Us"
-msgstr "Apoia-nos"
+msgstr "Toeta meid"
 
 msgid "Donations help us keep servers running and more!"
-msgstr ""
-"Doações ajudam-nos a manter os nossos servidores a funcionar e muito mais!"
+msgstr "Annetused aitavad servereid töös hoida!"
 
 # In Community page
 msgid "For Programmers"
-msgstr "Para Programadores"
+msgstr "Programmeerijate jaoks"
 
 # In Community page
 msgid "Programming"
-msgstr "Programação"
+msgstr "Programmimine"
 
 msgid "Source control"
-msgstr "Controlo de fonte"
+msgstr "Allikakontroll"
 
 msgid "Building from source"
-msgstr "Compilar a partir da fonte"
+msgstr "Arendus allikast"
 
 msgid "Coding style guidelines"
-msgstr "Diretrizes do estilo de código"
+msgstr "Kodeerimisstiili juhised"
 
 msgid "Doxygen documentation"
-msgstr "Documentação doxygen"
+msgstr "Doxygeni dokumentatsioon"
 
 msgid "Tasks for beginners"
-msgstr "Tarefas para principiantes"
+msgstr "Ülesanded algajatele"
 
 msgid "Scripting"
-msgstr "Scripting"
+msgstr "Skriptide kirjutamine"
 
 # In Community page
 msgid "Misc"
-msgstr "Diversos"
+msgstr "Muud"
 
 msgid "Making challenges"
-msgstr "Fazer desafios"
+msgstr "Väljakutsete esitamine"
 
 msgid "About releasing new versions"
-msgstr "Sobre novas versões"
+msgstr "Uute versioonide avaldamise kohta"
 
 msgid "About player rankings"
-msgstr "Sobre classificações de jogador"
+msgstr "Mängijate paremusjärjestus"
 
 # In Community page
 msgid "For Everyone"
-msgstr "Para Todos"
+msgstr "Kõigi jaoks"
 
 msgid "Connecting your Wiimote"
-msgstr "Ligar o teu Wiimote"
+msgstr "Sinu Wiimote'i lisamine"
 
 msgid "Translating SuperTuxKart"
-msgstr "Traduzir o SuperTuxKart"
+msgstr "SuperTuxKarti tõlkimine"
 
 msgid "Reporting Problems"
-msgstr "Reportar Problemas"
+msgstr "Probleemidest teatamine"
 
 msgid "Voice Acting"
-msgstr "Dobragem/Interpretação Vocal"
+msgstr "Häälnäitlemine"
 
 msgid "Terms and conditions"
-msgstr "Termos e condições"
+msgstr "Tingimused"
 
 msgid "Privacy policy"
-msgstr "Política de privacidade"
+msgstr "Privaatsuspoliitika"
 
 # In Community page
 msgid "For Artists"
-msgstr "Para Artistas"
+msgstr "Kunstnikkude jaoks"
 
 # In Community page
 msgid "General Information"
-msgstr "Informação Geral"
+msgstr "Üldinformatsioon"
 
 msgid "Installing Tools"
-msgstr "Instalar ferramentas"
+msgstr "Tööriistade installimine"
 
 # Page links to art style documentaion of STK
 msgid "Style"
-msgstr "Estilo"
+msgstr "Stiil"
 
 msgid "Licensing"
-msgstr "Licenciamento"
+msgstr "Litsentsimine"
 
 msgid "Artist Debug Mode"
-msgstr "Modo Depuração para Artistas"
+msgstr "Kunstniku silumisrežiim"
 
 # In Community page
 msgid "Guidelines"
-msgstr "Diretrizes"
+msgstr "Juhendid"
 
 msgid "Texture Guidelines"
-msgstr "Diretrizes para Texturas"
+msgstr "Tekstuur"
 
 msgid "3D Model Guidelines"
-msgstr "Diretrizes para Modelagem 3D"
+msgstr "3D modelleerimine"
 
 msgid "Music and SFX Guidelines"
-msgstr "Diretrizes para Música e SFX"
+msgstr "Muusika ja SFX"
 
 msgid "File naming conventions"
-msgstr "Convenções de nomes de ficheiros"
+msgstr "Failide nimetamise juhis"
 
 # In Community page
 msgid "Creating"
-msgstr "Criar"
+msgstr "Moodustus"
 
 # Page title of discover page
 msgid "Welcome to the Mascot Kingdom!"
-msgstr "Bem-vindo/a ao Reino das Mascotes!"
+msgstr "Tere tulemast maskoti kuningriiki!"
 
 msgid ""
 "Karts. Nitro. Action! SuperTuxKart is a 3D open-source arcade racer with a "
@@ -282,10 +279,10 @@ msgid ""
 "game that is more fun than realistic, and provide an enjoyable experience "
 "for all ages."
 msgstr ""
-"Karts. Nitro. Ação! SuperTuxKart é um arcada de corrida 3D em código aberto "
-"com uma variedade de personagens, pistas e modos para jogar. O nosso "
-"objetivo é criar um jogo que seja mais divertido do que realista, e "
-"propiciar uma experiência agradável para todas as idades."
+"SuperTuxKart on 3D avatud lähtekoodiga arkaadvõistleja, millel on "
+"mängimiseks erinevaid tegelasi, lugusid ja režiime. Meie eesmärk on luua "
+"mäng, mis on lõbusam kui realistlik ja pakub nauditavat kogemust igas "
+"vanuses inimestele."
 
 msgid ""
 "In Story mode, you must face the evil Nolok, and defeat him in order to make"
@@ -295,15 +292,15 @@ msgid ""
 " eight friends on a single computer, play on a local network or play online "
 "with other players all over the world."
 msgstr ""
-"No Modo História, vais enfrentar o malvado Nolok e derrotá-lo para manter o "
-"Reino das Mascotes em segurança outra vez! Podes correr sozinho contra o "
-"computador, competir em vários Campeonatos ou tentar bater os teus melhores "
-"tempos em Contrarrelógio. Também podes correr, batalhar ou jogar futebol com"
-" até 8 amigos num só computador,  jogar numa rede local ou então online com "
-"outros jogadores pelo mundo inteiro."
+"Story režiimis peate silmitsi seisma kurja Nolokiga ja võitma ta, et maskoti"
+" kuningriik oleks taas ohutu! Võite võistelda ise arvuti vastu, võistelda "
+"mitmel Grand Prixi karikavõistlusel või proovida võita oma kiireimat aega "
+"ajaproovi režiimis. Samuti saate võistelda, võidelda või mängida jalgpalli "
+"kuni kaheksa sõbraga ühes arvutis, mängida kohalikus võrgus või mängida "
+"võrgus koos teiste mängijatega üle kogu maailma."
 
 msgid "Main Characters"
-msgstr "Personagens Principais"
+msgstr "Peamised tegelased"
 
 msgid "Tux"
 msgstr "Tux"
@@ -312,8 +309,8 @@ msgid ""
 "The hero of SuperTuxKart. Tux is a brave penguin who must save his friend, "
 "Gnu, from the evil clutches of Nolok. Tux is the mascot of Linux."
 msgstr ""
-"O herói de SuperTuxKart. Tux é um pinguim corajoso que busca salvar o seu "
-"amigo, Gnu, das malditas garras de Nolok. Tux é a mascote do Linux."
+"SuperTuxKarti peamine kangelane. Tux on vapper pingviin, kes peab päästma "
+"oma sõbra Gnu kurjast Noloki'st. Tux on Linuxi maskott."
 
 msgid "Gnu"
 msgstr "Gnu"
@@ -323,9 +320,9 @@ msgid ""
 "pagoda. When Nolok captures him, the entire kingdom will try to save him. "
 "Gnu is the mascot of the GNU Project."
 msgstr ""
-"Mentor sábio de Tux, Gnu corre de tapete voador e vive tranquilamente num "
-"pagode. Quando é capturado por Nolok, todo o reino tentará salvá-lo. Gnu é a"
-" mascote do Projeto GNU."
+"Tuxi tark mentor Gnu sõidab lendaval vaibal ja elab rahulikult pagoodis. Kui"
+" Nolok teda tabab, püüab kogu kuningriik teda päästa. Gnu on GNU projekti "
+"maskott."
 
 msgid "Nolok"
 msgstr "Nolok"
@@ -334,11 +331,11 @@ msgid ""
 "The villain of SuperTuxKart, Nolok is always concocting some sort of "
 "malevolent plan inside his fiery lava castle."
 msgstr ""
-"Vilão de SuperTuxKart, Nolok passa o tempo a inventar planos maléficos "
-"dentro do seu ardente castelo de lava."
+"SuperTuxKarti kaabakas Nolok mõtleb oma laavalossis alati välja mingisuguse "
+"pahatahtliku plaani."
 
 msgid "Additional Characters"
-msgstr "Personagens Secundárias"
+msgstr "Teised tegelased"
 
 msgid "Sara"
 msgstr "Sara"
@@ -348,8 +345,8 @@ msgid ""
 "using a specialised snowmobile. She is the mascot of the OpenGameArt "
 "website."
 msgstr ""
-"Sara é uma poderosa mágica e governanta do Reino das Mascotes. Ela corre "
-"numa mota de neve especializada. É a mascote do site OpenGameArt."
+"Sara on võimas mustkunstnik ja Maskoti Kuningriigi valitseja. Ta võistleb "
+"spetsiaalse mootorsaaniga. Ta on OpenGameArti veebisaidi maskott."
 
 msgid "Wilber"
 msgstr "Wilber"
@@ -358,8 +355,9 @@ msgid ""
 "Wilber is the official cameraman who works for WTXB-TV to record kart races,"
 " which are very popular in the Mascot Kingdom. He is the mascot of GIMP."
 msgstr ""
-"Wilber é o cameraman oficial da WTXB-TV para gravação de corridas de karts, "
-"bastante populares no Reino das Mascotes. Ele é a mascote do GIMP."
+"Wilber on ametlik kaameramees, kes töötab WTXB-TV heaks, et salvestada "
+"kardivõistlusi, mis on Maskoti Kuningriigis väga populaarsed. Ta on GIMPi "
+"maskott."
 
 msgid "Puffy"
 msgstr "Puffy"
@@ -368,8 +366,8 @@ msgid ""
 "Puffy races mainly to earn enough money to accomplish his dream: to buy a "
 "submarine. He is the mascot of the OpenBSD project."
 msgstr ""
-"Puffy corre por um sonho: ganhar dinheiro suficiente para comprar um "
-"submarinho. Ele é a mascote do projeto OpenBSD."
+"Puffy võistleb peamiselt selleks, et teenida piisavalt raha oma unistuse "
+"täitmiseks: osta allveelaev. Ta on OpenBSDi projekti maskott."
 
 msgid "Pidgin"
 msgstr "Pidgin"
@@ -378,8 +376,8 @@ msgid ""
 "Pidgin's ability to fly makes him perfect to deliver the results of the "
 "Grand Prix around the Mascot Kingdom. He is the mascot of Pidgin."
 msgstr ""
-"A habilidade de voo de Pidgin torna-o perfeito para apresentar os resultados"
-" de Campeonatos por todo o Reino das Mascotes. Ele é a mascote de Pidgin."
+"Pidgini võime lennata muudab ta täiuslikuks, et pakkuda Grand Prixi tulemusi"
+" Maskoti Kuningriigi ümber. Ta on programmi Pidgin maskott."
 
 msgid "Godette"
 msgstr "Godette"
@@ -389,9 +387,9 @@ msgid ""
 "without her friend, GDBot, a robot she built and programmed herself. They "
 "even race together in a unique tandem kart."
 msgstr ""
-"Godette é a mascote de Godot e uma verdadeira fã da tecnologia. Ela nunca é "
-"vista sem o seu amigo, GDBot, um robô que construiu e programou ela mesmo. "
-"Eles correm juntos num kart único para dois."
+"Godette on Godoti maskott ja tõeliselt tehnikatüdruk. Teda ei nähta kunagi "
+"ilma tema sõbra GDBotita, robotita, mida ta ise ehitas ja programmeeris. Nad"
+" võistlevad isegi koos ainulaadses tandemkardis."
 
 msgid "Amanda"
 msgstr "Amanda"
@@ -401,9 +399,8 @@ msgid ""
 "now teaches the ancient art of racing in a monastery. She is the mascot of "
 "Window Maker."
 msgstr ""
-"Amanda foi resgatada por monges quando a encontraram num cesto de bebé. Ela "
-"hoje ensina a arte antiga de conduzir num mosteiro. É a mascote do Window "
-"Maker."
+"Mungad päästsid Amanda, kui nad leidsid ta poisina korvist. Nüüd õpetab ta "
+"kloostris iidset võidusõidukunsti. Ta on Window Makeri maskott."
 
 msgid "Emule"
 msgstr "Emule"
@@ -412,9 +409,8 @@ msgid ""
 "Emule's superior knowledge of mechanical engineering allowed him to build "
 "his own kart with a turbocharged engine. He is the mascot of eMule."
 msgstr ""
-"Com o seu conhecimento superior de engenharia mecânica, Emule soube "
-"construir o seu próprio kart de motor turboalimentado. Ele é a mascote do "
-"eMule."
+"Emule suurepärased teadmised masinaehitusest võimaldasid tal ehitada "
+"turbolaaduriga mootoriga oma kardi. Ta on eMule'i maskott."
 
 msgid "Suzanne"
 msgstr "Suzanne"
@@ -423,9 +419,9 @@ msgid ""
 "Racing has been Suzanne's dream since childhood. She began her racing career"
 " in the prestigious Kart Academy of Val Verde. She is the mascot of Blender."
 msgstr ""
-"Correr é o sonho de Suzanne desde criança. Ela iniciou a sua carreira como "
-"piloto na prestigiosa Academia de Karts de Val Verde. Ela é a mascote do "
-"Blender."
+"Võidusõit on olnud Suzanne'i unistus juba lapsepõlvest saati. Ta alustas oma"
+" võidusõitjakarjääri mainekas Val Verde kardiakadeemias. Ta on Blenderi "
+"maskott."
 
 msgid "Gavroche"
 msgstr "Gavroche"
@@ -435,9 +431,9 @@ msgid ""
 "scary noises, tricking people into thinking the house is haunted. He is the "
 "mascot of MediaGoblin."
 msgstr ""
-"Gavroche é um goblin, dono da mansão Ravenbridge. Por vezes, emite sons "
-"assustadores, enganando pessoas a pensar que a casa está assombrada. Ele é a"
-" mascote de MediaGoblin."
+"Gavroche on goblin, kellele kuulub Ravenbridge'i mõis. Mõnikord teeb ta "
+"hirmutavaid hääli, meelitades inimesi arvama, et maja kummitab. Ta on "
+"MediaGoblini maskott."
 
 msgid "Hexley"
 msgstr "Hexley"
@@ -446,9 +442,8 @@ msgid ""
 "Hexley's ancestors started kart racing many years ago, and generation after "
 "generation, they became very good at it. He is the mascot of Darwin."
 msgstr ""
-"Os antepassados de Hexley começaram a correr de kart há muitos anos e, "
-"geração após geração, tornaram-se muito bons nisso. Ele é a mascote de "
-"Darwin."
+"Hexley esivanemad alustasid kardisõiduga palju aastaid tagasi ja põlvkond "
+"põlvkonna järel said nad selles väga heaks. Ta on Darwini maskott."
 
 msgid "Xue"
 msgstr "Xue"
@@ -458,9 +453,9 @@ msgid ""
 "She races a special hovercraft, which is small enough to be driven by a "
 "mouse. She is the mascot of XFCE."
 msgstr ""
-"Xue gosta de se destacar da multidão, e o seu kart invulgar reflete isso. "
-"Ela pilota um hidroflutuador especial, pequeno o suficiente para ser "
-"conduzido por um rato. Ela  é a mascote de XFCE."
+"Xue'le meeldib rahvahulgast silma paista ja tema ebatavaline kart peegeldab "
+"seda. Ta sõidab spetsiaalse hõljukiga, mis on piisavalt väike, et seda "
+"hiirega juhtida. Ta on XFCE'i maskott."
 
 msgid "Konqi"
 msgstr "Konqi"
@@ -469,9 +464,8 @@ msgid ""
 "While Konqi's ancient ancestors were dangerous and feared, dragons today are"
 " harmless... mostly. He is the mascot of the KDE project."
 msgstr ""
-"Enquanto que os antepassados longínquos de Konqi eram perigosos e temidos, "
-"hoje os dragões são inofensivos... quase todos. Ele é a mascote do projeto "
-"KDE."
+"Kui Konqi iidsed esivanemad olid ohtlikud ja kardetud, siis draakonid on "
+"tänapäeval kahjutud... Enamasti. Ta on KDE projekti maskott."
 
 msgid "Adiumy"
 msgstr "Adiumy"
@@ -482,11 +476,10 @@ msgid ""
 "gait, he is highly respected as one of the most talented racing drivers in "
 "the kingdom. Adiumy is the mascot of Adium."
 msgstr ""
-"Adiumy começou a correr de kart quando percebeu que as suas pernas eram "
-"demasiado curtas para ser um craque de futebol. Embora as outras mascotes "
-"por vezes gozem com o seu andar desajeitado, ele é altamente respeitado como"
-" um dos pilotos de corrida mais talentosos do reino. Adiumy é a mascote do "
-"Adium."
+"Adiumy alustas kardisõitu, kui mõistis, et tema jalad on jalgpallitäheks "
+"saamiseks liiga lühikesed. Kuigi teised maskotid teevad mõnikord nalja tema "
+"veidra kõnnaku üle, on ta väga austatud kui üks andekamaid võidusõitjaid "
+"kuningriigis. Adiumy on Adiumi maskott."
 
 msgid "Kiki"
 msgstr "Kiki"
@@ -497,10 +490,10 @@ msgid ""
 "world on her pen-powered aeroplane. Kiki is the mascot of the Krita digital "
 "painting program."
 msgstr ""
-"Um utilizador de Krita inicialmente desenhou Kiki para um manual de treino, "
-"mas, assim que o manual foi imprimido, Kiki decidiu saltar das páginas e "
-"correr pelo mundo no seu avião movido a caneta. Kiki é a mascote do programa"
-" de pintura digital Krita."
+"Krita kasutaja joonistas Kiki kõigepealt treeningkäsiraamatu jaoks, kuid "
+"niipea, kui käsiraamat oli trükitud, otsustas Kiki oma pliiatsiga töötava "
+"lennukiga lehtedelt maha hüpata ja ümber maailma kihutada. Kiki on Krita'i "
+"digitaalse maali programmi maskott."
 
 msgid "Pepper"
 msgstr "Pepper"
@@ -511,112 +504,110 @@ msgid ""
 "broom with a nitro injection system and custom exhaust tips. Pepper is the "
 "main character of the Pepper & Carrot project."
 msgstr ""
-"Pepper é uma bruxinha que adora brincar com o seu gato Carrot. O seu "
-"entusiasmo por corridas cresceu quando a sua amiga Kiki a ajudou a afinar a "
-"sua vassoura com um sistema de injeção de nitro e ponteiras de escape "
-"personalizadas. Pepper é a personagem principal do projeto Pepper & Carrot."
+"Pepper on väike nõid, kes armastab mängida oma kassi porgandiga. Tema "
+"entusiasm võidusõidu vastu süttis, kui sõber Kiki aitas tal oma luuda "
+"häälestada nitro sissepritsesüsteemi ja kohandatud väljalaskeotstega. Pepper"
+" on Pepper & Carroti projekti peamine tegelane."
 
 msgid "...And many more!"
-msgstr "...E muito mais!"
+msgstr "..ja palju muud!"
 
 msgid ""
 "You can create your own characters, tracks, and arenas and share them with "
 "the SuperTuxKart community! You can do this by going to "
 "[online.supertuxkart.net](https://online.supertuxkart.net)."
 msgstr ""
-"Podes criar as tuas próprias personagens, pistas e arenas e partilhá-las com"
-" a comunidade do SuperTuxKart! Podes fazer isto indo a "
+"Saate luua oma tegelasi, lugusid ja areene ning jagada neid SuperTuxKarti "
+"kogukonnaga! Seda saate teha, minnes aadressile "
 "[online.supertuxkart.net](https://online.supertuxkart.net)."
 
 msgid ""
 "If you are interested you can take a look at the [community](Community) "
 "page."
-msgstr ""
-"Se estás interessado/a, podes dar uma vista de olhos à página da "
-"[Comunidade](Community)."
+msgstr "Kui olete huvitatud, võite vaadata [community](Community) lehte."
 
 # Full game installer / packages for STK
 msgid "Full game"
-msgstr "Jogo completo"
+msgstr "Täismäng"
 
 msgid "Intel / AMD 32-bit"
-msgstr "Intel / AMD 32-bit"
+msgstr "Intel / AMD 32-bitid"
 
 msgid "Intel / AMD 64-bit"
-msgstr "Intel / AMD 64-bit"
+msgstr "Intel / AMD 64-bitid"
 
 msgid "ARM 32-bit"
-msgstr "ARM 32-bit"
+msgstr "ARM 32-bitid"
 
 msgid "ARM 64-bit"
-msgstr "ARM 64-bit"
+msgstr "ARM 64-bitid"
 
 # All-in-one architectures for STK installer / packages
 msgid "all architectures"
-msgstr "todas as arquiteturas"
+msgstr "Kõik arhitektuurid"
 
 msgid "Extract and run **run_game.sh** inside the folder."
-msgstr "Extrai e corre **run_game.sh** dentro da pasta."
+msgstr "Ekstrakti ja käivita kaustas fail **run_game.sh**"
 
 msgid "Installer-less archive"
-msgstr "Arquivo sem instalador"
+msgstr "Arhiiv ilma paigaldajata"
 
 msgid "Get on Google Play Store"
-msgstr "Obter na Google Play Store"
+msgstr "Lae alla Google Play'st"
 
 msgid "Get the APK"
-msgstr "Obter APK"
+msgstr "Lae APK alla"
 
 msgid "Unzip the archive to microSD root to install."
-msgstr "Extrai o arquivo para o diretório raiz do microSD para instalar."
+msgstr "Ava arhiiv ja kopeeri failid microSD-kaardile"
 
 msgid "Source Code"
-msgstr "Código Fonte"
+msgstr "Lähtekood"
 
 msgid ""
 "To get the very latest code, see the page [Source control](Source_control)."
 msgstr ""
-"Para obteres o código mais recente, vê a página [Controlo de "
-"Fonte](Source_control)."
+"Külasta koduleht [Source control](Source_control), et näha uusim koodi "
+"versiooni."
 
 msgid "Download from GitHub"
-msgstr "Instalar do GitHub"
+msgstr "Lae alla GitHub'st"
 
 # Toggle for table of contents
 msgid "Show"
-msgstr "Mostrar"
+msgstr "Näidata"
 
 # Toggle for table of contents
 msgid "Hide"
-msgstr "Ocultar"
+msgstr "Peita"
 
 msgid ""
 "Preview release is available [here](https://github.com/supertuxkart/stk-"
 "code/releases/preview)."
 msgstr ""
-"Uma versão experimental está disponível "
-"[aqui](https://github.com/supertuxkart/stk-code/releases/preview)."
+"Eelväljaanne on saadaval [siin](https://github.com/supertuxkart/stk-"
+"code/releases/preview)."
 
 msgid "Get the latest release candidate:"
-msgstr "Obter a última versão candidata a lançamento:"
+msgstr "Lae alla uusima versiooni kandidaat:"
 
 msgid "Get SuperTuxKart on Itch.io"
-msgstr "Obter SuperTuxKart no Itch.io"
+msgstr "Lae SuperTuxKart alla kodulehelt Itch.io"
 
 msgid "Discover more..."
-msgstr "Descobre mais..."
+msgstr "Avasta rohkem..."
 
 msgid "Latest Blog Post"
-msgstr "Última Postagem no Blogue"
+msgstr "Uusima ajaveebi postitus"
 
 # Title of prerequisites popup which describes prerequisites before reading
 # some articles
 msgid "Prerequisites"
-msgstr "Pré-requisitos"
+msgstr "Eeltingimused"
 
 msgid ""
 "You should read the following articles prior to following this tutorial:"
-msgstr "Deves ler os seguintes artigos antes de seguires este tutorial:"
+msgstr "Enne selle õpetuse järgimist peaksid lugema järgmisi artikleid:"
 
 msgid "Click here if you are not redirected."
-msgstr "Clica aqui se não fores redirecionado."
+msgstr "Klõpsa siin, kui sind ei suunata ümber."
