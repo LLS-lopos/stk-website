@@ -1,15 +1,15 @@
 # 
 # Translators:
 # Crystal Da Eevee <rutmaria3333@hotmail.com>, 2022
-# João Frade <100nome.portugal@gmail.com>, 2023
 # Hugo Carvalho <hugokarvalho@hotmail.com>, 2024
+# João Frade <100nome.portugal@gmail.com>, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: stk-website\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "PO-Revision-Date: 2021-11-10 17:58+0000\n"
-"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2024\n"
+"Last-Translator: João Frade <100nome.portugal@gmail.com>, 2025\n"
 "Language-Team: Portuguese (https://app.transifex.com/supertuxkart/teams/36024/pt/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -51,7 +51,7 @@ msgid "FAQ"
 msgstr "Perguntas Frequentes"
 
 msgid "Get Involved"
-msgstr "Participe"
+msgstr "Envolve-te"
 
 msgid "Blog"
 msgstr "Blogue"
@@ -179,7 +179,7 @@ msgid "Programming"
 msgstr "Programação"
 
 msgid "Source control"
-msgstr "Controlo de fonte"
+msgstr "Controlo de versões"
 
 msgid "Building from source"
 msgstr "Compilar a partir da fonte"
@@ -577,7 +577,7 @@ msgid ""
 "To get the very latest code, see the page [Source control](Source_control)."
 msgstr ""
 "Para obteres o código mais recente, vê a página [Controlo de "
-"Fonte](Source_control)."
+"versões](Source_control)."
 
 msgid "Download from GitHub"
 msgstr "Instalar do GitHub"

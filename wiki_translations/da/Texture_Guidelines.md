@@ -1,14 +1,14 @@
 ---
-title: Tekstur retningslinjer
+title: Retningslinjer til strukturer
 toc: true
 ---
 En god tekstur er måske en af de vigtigste ting i 3D-kunst. Selv et smukt modelleret objekt kan se hæsligt ud med dårlig tekstur. Så det er vigtigt, dine teksturer passer til retningslinjerne.
 
 ## Stil
 
-Teksturer i SuperTuxKart er håndtegnede eller malede. Ikke bare fotografier (selvom du sagtens kan bruge fotografier som reference). Du skal ikke male med fysisk maling. Du kan bruge en digital tegne-app som Krita. Andre apps er listet på [Værktøjsinstallation](Installing_Tools)-siden. 
+Teksturer i SuperTuxKart er håndtegnede eller malede. Ikke bare fotografier (selvom du sagtens kan bruge fotografier som reference). Du skal ikke male med fysisk maling. Du kan bruge en digital tegne-app som Krita. Andre apps er listet på [værktøjsinstallation](Installing_Tools)-siden. 
 
-Teksturer må ikke være komplet falske eller tegneserieagtige. Tilføj gerne mængder af detaljer, så længe du udelukkende bruger håndtegning (undtaget omstændigheder beskrevet herunder). Mere information om tesksturmaling på [Seneste Blender dokumentation](https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html).
+Teksturer må ikke være komplet falske eller tegneserieagtige. Tilføj gerne mængder af detaljer, så længe du udelukkende bruger håndtegning (undtaget omstændigheder beskrevet herunder). Mere information om tesksturmaling på [Seneste Blender-dokumentation](https://docs.blender.org/manual/en/latest/sculpt_paint/texture_paint/index.html).
 
 ### Hvornår kan fotografier bruges
 
