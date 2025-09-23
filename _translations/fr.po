@@ -170,6 +170,10 @@ msgstr "Faites un don!"
 msgid "Donations help us keep servers running and more!"
 msgstr "Les dons nous aident à maintenir les serveurs et plus!"
 
+# In Commuity Page
+msgid "The new Forum is coming soon!"
+msgstr "Le nouveau Forum arrive bientôt !"
+
 # In Community page
 msgid "For Programmers"
 msgstr "Pour les programmeurs"
@@ -185,7 +189,7 @@ msgid "Building from source"
 msgstr "Compiler depuis la source"
 
 msgid "Coding style guidelines"
-msgstr "Directives et règles d'écriture"
+msgstr "Directives d'écriture de code"
 
 msgid "Doxygen documentation"
 msgstr "Documentation Doxygen"
@@ -195,6 +199,10 @@ msgstr "Tâches pour les débutants"
 
 msgid "Scripting"
 msgstr "Scripts"
+
+# add buttom Making Server 
+msgid "Making Server"
+msgstr "Créer un serveur"
 
 # In Community page
 msgid "Misc"
@@ -627,7 +635,3 @@ msgstr "Vous devriez lire les articles suivants avant de suivre ce tutoriel:"
 
 msgid "Click here if you are not redirected."
 msgstr "Cliquez ici si vous n'êtes pas redirigé(e) automatiquement."
-
-# add buttom Making Server 
-msgid "Making Server"
-msgstr "Créer un serveur"

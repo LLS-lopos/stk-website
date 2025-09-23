@@ -145,7 +145,7 @@ Les sites web suivants ne proposent que du matériel relevant du domaine public,
 * [BurningWell](https://www.burningwell.org/) (Photo)
 * [pdsounds](https://pdsounds.org/) (Audio)
 * [OpenClipArt](https://openclipart.org/) (art vectorielle 2D)
-* [TheBaseMesh](https://gamefromscratch.com/the-base-mesh-2-0/) (modèle 3D)
+* [TheBaseMesh](https://www.thebasemesh.com/) (modèle 3D)
 
 Les sites web suivants fournissent des ressources sous diverses licences mixtes ; vous pouvez y trouver beaucoup de matériel de qualité, mais vérifiez la licence au cas par cas:
 
