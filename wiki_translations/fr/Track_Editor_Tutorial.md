@@ -1,5 +1,5 @@
 ---
-title: Tutoriel Track Editor
+title: Tutoriel Editeur De Piste
 display_title: true
 ---
 Au premier démarrage, vous verrez une fenêtre de sélection de répertoire. Dirigez-vous vers le répertoire de données, qui contient la texture, les karts, les modèles, etc. (Double-cliquez sur un répertoire pour vous y déplacer, et double-cliquez sur le "..." pour quitter le répertoire actuel). Une fois que vous avez trouvé le bon dossier, cliquez sur le bouton OK. Si ce n'est pas celui attendu par l'éditeur, vous ne pourrez pas vous débarrasser de la fenêtre de sélection.

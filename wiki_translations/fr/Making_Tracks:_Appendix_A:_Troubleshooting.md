@@ -21,17 +21,53 @@ Essayez de corriger les problèmes qui se présentent et voyez si cela vous aide
 
 {% start_liquid qa %}
 
-Les karts AI sont sauvés de façon aléatoire ou lorsqu'ils sont lancés par une fermeture éclair(zipper).
+Les karts AI sont sauvés de façon aléatoire ou lorsqu'ils sont lancés par une fermeture éclair (zipper)
 
-Pour décider s'il faut secourir un kart, SuperTuxKart effectue des projections de rayons pour déterminer si le kart se trouve sur une surface ou non. Lorsqu'un kart est lancé par une fermeture éclair sans aucune surface en dessous, STK détectera que le kart est hors de la piste et doit être secouru. Pour éviter cela, créez une zone de faible densité sous la surface de conduite principale ou la trajectoire de lancement afin que STK ne détecte pas un besoin de sauvetage faussement positif. Texturez la surface avec une texture transparente ou définissez-la comme physique uniquement. Voir [Physique#Interaction Kart Objet](Physics/#interaction-kart-objet)  pour plus d'informations.
+Pour décider s'il faut secourir un kart, SuperTuxKart effectue des raycasts pour déterminer si un kart est sur une surface ou non. Lorsqu'un kart est lancé par une fermeture éclair sans surface en dessous, STK détectera que le kart est hors piste et doit être secouru. Pour éviter cela, créez une surface basse polygone sous la surface de conduite principale ou la trajectoire de lancement pour que STK ne détecte pas un faux positif de besoin de sauvetage. Texturez la surface avec une texture transparente ou définissez-la comme "Physics only". Voir [Physique#interaction-kart-objet](Physics#kart-object-interaction) pour plus d'informations.
 
 {% end_liquid %}
 
 {% start_liquid qa %}
 
-Les décorations transparentes ou translucides n'apparaissent pas correctement dans le jeu!
+Les décorations transparentes ou translucides n'apparaissent pas correctement dans le jeu !
 
-Il s'agit probablement d'un problème de tri. Essayez d'exporter les parties transparentes en tant qu'objets séparés ("Object" dans le panneau des propriétés d'objet de SuperTuxKart dans Blender). Si votre section transparente comprend une partie de la zone de conduite principale, assurez-vous de cocher la case "Driveable" dans le panneau des propriétés d'objet de SuperTuxKart. Assurez-vous également que la case "Disable writing to Z-buffer" est cochée pour toutes les textures transparentes ou partiellement transparentes dans le panneau SuperTuxKart Image Properties.
+Il s'agit probablement d'un problème de tri. Essayez d'exporter les parties transparentes en tant qu'objets séparés ("Object" dans le panneau des propriétés de l'objet SuperTuxKart dans Blender). Si votre section transparente inclut une partie de la surface de conduite principale, assurez-vous de cocher la case "Drivable" dans le panneau des propriétés de l'objet SuperTuxKart. Assurez-vous également que "Désactiver l'écriture dans le Z-buffer" est coché pour toutes les textures transparentes ou partiellement transparentes dans le panneau des propriétés d'image SuperTuxKart.
+
+{% end_liquid %}
+
+{% start_liquid qa %}
+
+Les objets transparents s'affichent bizarrement dans Blender !
+
+C'est pour la même raison évoquée dans la question ci-dessus : problèmes de tri, et c'est un problème connu de Blender. Malheureusement, nous ne pouvons pas changer cela. Essayez de cocher la case "X-Ray" sous "Affichage" dans la section "Objet" de la fenêtre des propriétés de Blender pour vos objets transparents. Ce n'est pas une solution miracle, mais cela pourrait aider un peu.
+
+{% end_liquid %}
+
+{% start_liquid qa %}
+
+Mon kart glisse partout et je ne peux pas bien diriger/accélérer !
+
+C'est probablement dû à un lissage des normales. Désactivez le lissage des normales dans le panneau des propriétés de scène SuperTuxKart.
+
+{% end_liquid %}
+
+{% start_liquid qa %}
+
+Mon kart s'envole dans les airs quand j'essaie de jouer sur ma piste !
+
+Votre piste est probablement trop étroite ou vous avez trop de karts par rangée sur la ligne de départ. Lorsque le [Mode Débogage Artiste](Artist_Debug_Mode) est activé, si vous êtes placé dans les airs, vous commencerez à voler ; si le Mode Débogage Artiste n'est pas activé, le jeu plantera. Il existe trois façons de résoudre ce problème :
+
+* Élargissez la piste au niveau de la ligne de départ.
+* Réduisez la valeur **Karts par rangée** sur la ligne de départ sous **Positions de la ligne de départ** dans le panneau des propriétés de scène SuperTuxKart.
+* Réduisez la valeur **Distance latérale de départ** dans la même section que ci-dessus.
+
+Une autre possibilité est que votre piste a les normales du mauvais côté. Pour vérifier si c'est le problème, passez en mode édition sur votre maillage de piste, développez votre menu **Superposition de la vue** en haut à droite, tout en bas vous trouverez des boutons pour activer les superpositions de **Normales**. Si elles apparaissent sous le maillage, sélectionnez les faces que vous souhaitez corriger et allez dans **Maillage > Normales > Retourner**.
+
+![Display_normals]({{ '/assets/wiki/Display_normals.jpg' | prepend: site.baseurl }})
+
+{% end_liquid %}
+
+{% include art_portal %}
 
 {% end_liquid %}
 

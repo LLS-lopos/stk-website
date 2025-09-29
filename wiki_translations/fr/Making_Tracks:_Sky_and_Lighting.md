@@ -66,7 +66,7 @@ Ce type de soleil crée un effet semblable à celui du soleil dans la vie réell
 Comme indiqué ci-dessus, vous pouvez placer les soleils visibles près de l'horizon, mais placer le soleil normal plus haut dans le ciel pour que les ombres fonctionnent correctement.
 
 {% gallery widths=48%
-/assets/wiki/Sun_blender.jpg,"In Blender (Sun casting shadows in green, visible sun in blue)"
+/assets/wiki/Sun_blender.jpg,In Blender (Sun casting shadows in green, visible sun in blue)
 /assets/wiki/Sun_godray.jpg,In SuperTuxKart
 %}
 

@@ -1,5 +1,5 @@
 ---
-title: Track Editor
+title: Editeur De Piste
 toc: true
 ---
 ## Installation

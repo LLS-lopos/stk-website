@@ -4,7 +4,7 @@ toc: true
 ---
 Le niveau de détail, ou LOD, permet d'afficher différentes variantes d'un objet à différentes distances de la caméra. En n'affichant que des objets très simples à grande distance, vous réduisez la charge de travail du GPU sans grande perte de détails de près.
 
-{% gallery widths=50%
+{% gallery widths=48%
 /assets/wiki/Lod_low.jpg
 /assets/wiki/Lod_medium.jpg
 /assets/wiki/Lod_high.jpg

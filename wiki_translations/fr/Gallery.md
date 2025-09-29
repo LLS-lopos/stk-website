@@ -9,7 +9,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% gallery widths=32%
+{% gallery widths=32%,32%,32%
 /assets/wiki/STK1.3_1.jpg
 /assets/wiki/STK1.3_2.jpg
 /assets/wiki/STK1.3_3.jpg
@@ -26,7 +26,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% gallery widths=32%
+{% gallery widths=32%,32%,32%
 /assets/wiki/STK0.9.3_1.jpg
 /assets/wiki/STK0.9.3_2.jpg
 /assets/wiki/STK0.9.3_3.jpg
@@ -159,7 +159,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% single_gallery widths=18%
+{% gallery widths=18%,18%,18%,18%,18%,10%
 /assets/wiki/STK0.6_1.jpg
 /assets/wiki/STK0.6_2.jpg
 /assets/wiki/STK0.6_3.jpg
@@ -177,7 +177,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% single_gallery widths=18%
+{% gallery widths=18%,18%,18%,18%,18%,10%
 /assets/wiki/STK0.5_1.jpg
 /assets/wiki/STK0.5_2.jpg
 /assets/wiki/STK0.5_3.jpg
@@ -191,7 +191,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% single_gallery widths=48%
+{% gallery widths=48%,48%
 /assets/wiki/STK0.4_1.jpg
 /assets/wiki/STK0.4_2.jpg
 %}
@@ -200,7 +200,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% single_gallery widths=48%
+{% gallery widths=48%,48%
 /assets/wiki/STK0.3h_1.jpg
 /assets/wiki/STK0.3h_2.jpg
 %}
@@ -209,7 +209,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% gallery widths=48%
+{% gallery widths=48%,48%
 /assets/wiki/STK0.3_1.jpg
 /assets/wiki/STK0.3_2.jpg
 %}
@@ -218,7 +218,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% single_gallery widths=48%
+{% gallery widths=48%,48%
 /assets/wiki/STK0.2_1.jpg
 /assets/wiki/STK0.2_2.jpg
 %}
@@ -227,7 +227,7 @@ title: Galerie
 
 {%minor_title Captures d'écrans%}
 
-{% single_gallery widths=48%
+{% gallery widths=48%,48%
 /assets/wiki/STK0.0.0_1.jpg
 /assets/wiki/STK0.0.0_2.jpg
 %}
